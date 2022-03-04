@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND_DODGE.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF hit0000" x="3" y="3" width="451" height="441"/>
+	<SubTexture name="BF hit0001" x="457" y="3" width="451" height="441"/>
+	<SubTexture name="BF hit0002" x="911" y="3" width="451" height="441"/>
+	<SubTexture name="BF hit0003" x="1365" y="3" width="451" height="441"/>
+	<SubTexture name="BF hit0004" x="3" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0005" x="457" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0006" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0007" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0008" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0009" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0010" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0011" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0012" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0013" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0014" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0015" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0016" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0017" x="1365" y="447" width="451" height="441"/>
+	<SubTexture name="BF hit0018" x="911" y="447" width="451" height="441"/>
+	<SubTexture name="boyfriend dodge0000" x="3" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0001" x="386" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0002" x="769" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0003" x="1152" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0004" x="1535" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0005" x="769" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0006" x="1152" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0007" x="1535" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0008" x="769" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0009" x="1152" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0010" x="1535" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0011" x="769" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0012" x="1152" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0013" x="1535" y="891" width="380" height="404"/>
+	<SubTexture name="boyfriend dodge0014" x="769" y="891" width="380" height="404"/>
+</TextureAtlas>

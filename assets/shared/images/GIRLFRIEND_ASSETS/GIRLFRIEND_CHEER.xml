@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GIRLFRIEND_CHEER.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Cheer0000" x="3" y="3" width="703" height="657"/>
+	<SubTexture name="GF Cheer0001" x="709" y="3" width="703" height="657"/>
+	<SubTexture name="GF Cheer0002" x="3" y="663" width="703" height="657"/>
+	<SubTexture name="GF Cheer0003" x="709" y="663" width="703" height="657"/>
+	<SubTexture name="GF Cheer0004" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0005" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0006" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0007" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0008" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0009" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0010" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0011" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0012" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0013" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0014" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0015" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0016" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0017" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0018" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0019" x="3" y="1323" width="703" height="657"/>
+	<SubTexture name="GF Cheer0020" x="3" y="1323" width="703" height="657"/>
+</TextureAtlas>

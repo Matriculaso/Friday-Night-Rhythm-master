@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BrossBop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BrossBop0000" x="3" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0001" x="3" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0002" x="404" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0003" x="404" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0004" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0005" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0006" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0007" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0008" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0009" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0010" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0011" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0012" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop0013" x="805" y="3" width="398" height="745"/>
+	<SubTexture name="BrossBop disgusted0000" x="1206" y="3" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0001" x="1206" y="3" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0002" x="1610" y="3" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0003" x="1610" y="3" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0004" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0005" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0006" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0007" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0008" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0009" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0010" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0011" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0012" x="3" y="751" width="401" height="745"/>
+	<SubTexture name="BrossBop disgusted0013" x="3" y="751" width="401" height="745"/>
+</TextureAtlas>

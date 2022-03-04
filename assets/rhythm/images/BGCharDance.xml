@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGCharDance.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGCharCamera0000" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-349" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0001" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-267" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0002" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-196" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0003" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-137" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0004" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-88" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0005" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-49" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0006" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-22" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0007" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-6" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0008" x="3" y="3" width="2922" height="1349" frameX="0" frameY="0" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0009" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-14" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0010" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-54" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0011" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-121" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0012" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-215" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0013" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-203" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0014" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-193" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0015" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-187" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0016" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-183" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharCamera0017" x="3" y="3" width="2922" height="1349" frameX="0" frameY="-181" frameWidth="2922" frameHeight="1698"/>
+	<SubTexture name="BGCharDance0000" x="2928" y="3" width="2944" height="1309" frameX="0" frameY="-41" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0001" x="2928" y="3" width="2944" height="1309" frameX="0" frameY="-41" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0002" x="3" y="1355" width="2940" height="1319" frameX="-4" frameY="-31" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0003" x="3" y="1355" width="2940" height="1319" frameX="-4" frameY="-31" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0004" x="2946" y="1355" width="2925" height="1342" frameX="-10" frameY="-8" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0005" x="2946" y="1355" width="2925" height="1342" frameX="-10" frameY="-8" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0006" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0007" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0008" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0009" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0010" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0011" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0012" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+	<SubTexture name="BGCharDance0013" x="3" y="2700" width="2926" height="1350" frameX="-9" frameY="0" frameWidth="2944" frameHeight="1350"/>
+</TextureAtlas>

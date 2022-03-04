@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story-diffies.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easy0000" x="3" y="109" width="103" height="103"/>
+	<SubTexture name="hard0000" x="109" y="3" width="103" height="103"/>
+	<SubTexture name="normal0000" x="3" y="3" width="103" height="103"/>
+</TextureAtlas>

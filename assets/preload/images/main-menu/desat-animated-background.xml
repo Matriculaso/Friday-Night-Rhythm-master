@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="desat-animated-background.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="animated background0000" x="3" y="3" width="1522" height="940"/>
+	<SubTexture name="animated background0001" x="1528" y="3" width="1522" height="940"/>
+	<SubTexture name="animated background0002" x="3053" y="3" width="1522" height="940"/>
+	<SubTexture name="animated background0003" x="4578" y="3" width="1522" height="940"/>
+	<SubTexture name="animated background0004" x="6103" y="3" width="1522" height="940"/>
+	<SubTexture name="animated background0005" x="3" y="946" width="1522" height="940"/>
+	<SubTexture name="animated background0006" x="1528" y="946" width="1522" height="940"/>
+	<SubTexture name="animated background0007" x="3053" y="946" width="1522" height="940"/>
+	<SubTexture name="animated background0008" x="4578" y="946" width="1522" height="940"/>
+	<SubTexture name="animated background0009" x="6103" y="946" width="1522" height="940"/>
+	<SubTexture name="animated background0010" x="3" y="1889" width="1522" height="940"/>
+	<SubTexture name="animated background0011" x="1528" y="1889" width="1522" height="940"/>
+	<SubTexture name="animated background0012" x="3053" y="1889" width="1522" height="940"/>
+	<SubTexture name="animated background0013" x="4578" y="1889" width="1522" height="940"/>
+	<SubTexture name="animated background0014" x="6103" y="1889" width="1522" height="940"/>
+	<SubTexture name="animated background0015" x="3" y="2832" width="1522" height="940"/>
+	<SubTexture name="animated background0016" x="1528" y="2832" width="1522" height="940"/>
+	<SubTexture name="animated background0017" x="3053" y="2832" width="1522" height="940"/>
+	<SubTexture name="animated background0018" x="4578" y="2832" width="1522" height="940"/>
+	<SubTexture name="animated background0019" x="6103" y="2832" width="1522" height="940"/>
+	<SubTexture name="animated background0020" x="3" y="3775" width="1522" height="940"/>
+	<SubTexture name="animated background0021" x="1528" y="3775" width="1522" height="940"/>
+	<SubTexture name="animated background0022" x="3053" y="3775" width="1522" height="940"/>
+	<SubTexture name="animated background0023" x="4578" y="3775" width="1522" height="940"/>
+</TextureAtlas>

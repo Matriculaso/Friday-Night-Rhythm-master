@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chango_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chango Dancing Beat0000" x="3" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0001" x="3" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0002" x="1312" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0003" x="2621" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0004" x="3930" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0005" x="5239" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0006" x="6548" y="3" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0007" x="3" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0008" x="3" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0009" x="3" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0010" x="1312" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0011" x="1312" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0012" x="1312" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0013" x="2621" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0014" x="2621" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0015" x="3930" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0016" x="3930" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0017" x="5239" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0018" x="6548" y="529" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0019" x="3" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0020" x="1312" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0021" x="2621" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0022" x="3930" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0023" x="3930" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0024" x="3930" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0025" x="5239" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0026" x="5239" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0027" x="5239" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0028" x="6548" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat0029" x="6548" y="1055" width="1306" height="523"/>
+	<SubTexture name="Chango Dancing Beat disgusted0000" x="3" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0001" x="3" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0002" x="1312" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0003" x="1312" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0004" x="2621" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0005" x="2621" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0006" x="3930" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0007" x="3930" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0008" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0009" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0010" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0011" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0012" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0013" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0014" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0015" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0016" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0017" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0018" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0019" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0020" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0021" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0022" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0023" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0024" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0025" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0026" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0027" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0028" x="5239" y="1581" width="1306" height="521"/>
+	<SubTexture name="Chango Dancing Beat disgusted0029" x="5239" y="1581" width="1306" height="521"/>
+</TextureAtlas>

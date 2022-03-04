@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-save.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alpha remove0000" x="3" y="3" width="476" height="235"/>
+	<SubTexture name="alpha remove0001" x="482" y="3" width="476" height="235"/>
+	<SubTexture name="alpha remove0002" x="961" y="3" width="476" height="235"/>
+	<SubTexture name="alpha remove0003" x="1440" y="3" width="476" height="235"/>
+	<SubTexture name="alpha remove0004" x="3" y="241" width="476" height="235"/>
+	<SubTexture name="alpha remove0005" x="482" y="241" width="476" height="235"/>
+	<SubTexture name="alpha remove0006" x="961" y="241" width="476" height="235"/>
+	<SubTexture name="alpha remove0007" x="1440" y="241" width="476" height="235"/>
+	<SubTexture name="alpha remove0008" x="3" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0009" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0010" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0011" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0012" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0013" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0014" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0015" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0016" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0017" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0018" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0019" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0020" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0021" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0022" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0023" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0024" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0025" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0026" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="alpha remove0027" x="482" y="479" width="476" height="235"/>
+	<SubTexture name="enter0000" x="961" y="479" width="495" height="230"/>
+	<SubTexture name="enter0001" x="1459" y="479" width="495" height="230"/>
+	<SubTexture name="enter0002" x="3" y="717" width="495" height="230"/>
+	<SubTexture name="enter0003" x="501" y="717" width="495" height="230"/>
+	<SubTexture name="enter0004" x="999" y="717" width="495" height="230"/>
+	<SubTexture name="enter0005" x="1497" y="717" width="495" height="230"/>
+	<SubTexture name="enter0006" x="3" y="950" width="495" height="230"/>
+	<SubTexture name="enter0007" x="501" y="950" width="495" height="230"/>
+	<SubTexture name="enter0008" x="999" y="950" width="495" height="230"/>
+	<SubTexture name="enter0009" x="1497" y="950" width="495" height="230"/>
+	<SubTexture name="idle0000" x="3" y="1183" width="453" height="212"/>
+	<SubTexture name="selected0000" x="459" y="1183" width="495" height="232"/>
+	<SubTexture name="selected0001" x="957" y="1183" width="495" height="232"/>
+	<SubTexture name="selected0002" x="1455" y="1183" width="495" height="232"/>
+	<SubTexture name="selected0003" x="3" y="1418" width="495" height="232"/>
+	<SubTexture name="selected0004" x="501" y="1418" width="495" height="232"/>
+</TextureAtlas>

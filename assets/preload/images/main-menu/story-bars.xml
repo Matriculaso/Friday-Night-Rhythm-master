@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story-bars.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf bar0000" x="3" y="3" width="1281" height="120"/>
+	<SubTexture name="gf bar0000" x="3" y="126" width="1281" height="120"/>
+</TextureAtlas>

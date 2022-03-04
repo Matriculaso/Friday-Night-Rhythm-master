@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GIRLFRIEND_DUCK.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Duck0000" x="3" y="3" width="713" height="563"/>
+	<SubTexture name="GF Duck0001" x="3" y="3" width="713" height="563"/>
+	<SubTexture name="GF Duck0002" x="3" y="569" width="713" height="563"/>
+	<SubTexture name="GF Duck0003" x="3" y="569" width="713" height="563"/>
+</TextureAtlas>

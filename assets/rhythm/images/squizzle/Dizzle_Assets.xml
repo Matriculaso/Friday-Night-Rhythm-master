@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dizzle_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Squizzle Idle0000" x="3280" y="3793" width="649" height="839" frameX="0" frameY="-32" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0001" x="3280" y="3793" width="649" height="839" frameX="0" frameY="-32" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0002" x="1275" y="3895" width="635" height="849" frameX="-6" frameY="-22" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0003" x="1275" y="3895" width="635" height="849" frameX="-6" frameY="-22" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0004" x="640" y="3863" width="632" height="854" frameX="-10" frameY="-17" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0005" x="640" y="3863" width="632" height="854" frameX="-10" frameY="-17" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0006" x="3" y="3045" width="634" height="867" frameX="-10" frameY="-4" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0007" x="3" y="3045" width="634" height="867" frameX="-10" frameY="-4" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0008" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0009" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0010" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0011" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0012" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle0013" x="4998" y="2937" width="636" height="871" frameX="-10" frameY="0" frameWidth="649" frameHeight="871"/>
+	<SubTexture name="Squizzle Idle Pixel0000" x="5312" y="3" width="691" height="1183" frameX="0" frameY="-26" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0001" x="5312" y="3" width="691" height="1183" frameX="0" frameY="-26" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0002" x="6767" y="3" width="671" height="1185" frameX="-6" frameY="-24" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0003" x="6767" y="3" width="671" height="1185" frameX="-6" frameY="-24" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0004" x="7441" y="3" width="656" height="1195" frameX="-10" frameY="-14" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0005" x="7441" y="3" width="656" height="1195" frameX="-10" frameY="-14" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0006" x="2353" y="1115" width="636" height="1206" frameX="-10" frameY="-3" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0007" x="2353" y="1115" width="636" height="1206" frameX="-10" frameY="-3" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0008" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0009" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0010" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0011" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0012" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Idle Pixel0013" x="6006" y="1081" width="636" height="1209" frameX="-10" frameY="0" frameWidth="691" frameHeight="1209"/>
+	<SubTexture name="Squizzle Note 3210000" x="5562" y="4026" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210001" x="5562" y="4026" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210002" x="6276" y="3800" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210003" x="6276" y="3800" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210004" x="3" y="2175" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210005" x="3" y="2175" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210006" x="2992" y="2110" width="646" height="871" frameX="-9" frameY="-8" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210007" x="2992" y="2110" width="646" height="871" frameX="-9" frameY="-8" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210008" x="3164" y="4635" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210009" x="3164" y="4635" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210010" x="4922" y="3811" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210011" x="4922" y="3811" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210012" x="5922" y="2293" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210013" x="5922" y="2293" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210014" x="1347" y="2147" width="646" height="871" frameX="-9" frameY="-8" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210015" x="1347" y="2147" width="646" height="871" frameX="-9" frameY="-8" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210016" x="6200" y="4657" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210017" x="6200" y="4657" width="635" height="849" frameX="-5" frameY="-30" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210018" x="6916" y="3813" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210019" x="6916" y="3813" width="637" height="854" frameX="-9" frameY="-25" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210020" x="1996" y="2324" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210021" x="1996" y="2324" width="642" height="867" frameX="-9" frameY="-12" frameWidth="668" frameHeight="879"/>
+	<SubTexture name="Squizzle Note 3210022" x="3" y="1293" width="668" height="879"/>
+	<SubTexture name="Squizzle Note 3210023" x="3" y="1293" width="668" height="879"/>
+	<SubTexture name="Squizzle Note Bruh0000" x="7207" y="2939" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0001" x="7207" y="2939" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0002" x="5637" y="3163" width="636" height="860" frameX="-2" frameY="-21" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0003" x="5637" y="3163" width="636" height="860" frameX="-2" frameY="-21" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0004" x="648" y="2990" width="636" height="870" frameX="-2" frameY="-11" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0005" x="648" y="2990" width="636" height="870" frameX="-2" frameY="-11" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0006" x="4283" y="2976" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0007" x="4283" y="2976" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0008" x="2641" y="2984" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0009" x="2641" y="2984" width="636" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0010" x="1287" y="3021" width="632" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0011" x="1287" y="3021" width="632" height="871" frameX="-2" frameY="-10" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0012" x="1922" y="3194" width="619" height="880" frameX="0" frameY="-1" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0013" x="1922" y="3194" width="619" height="880" frameX="0" frameY="-1" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0014" x="7556" y="3813" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0015" x="7556" y="3813" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0016" x="7556" y="3813" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0017" x="7556" y="3813" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0018" x="3932" y="3850" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0019" x="3932" y="3850" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0020" x="2544" y="3858" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0021" x="2544" y="3858" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Bruh0022" x="2544" y="3858" width="617" height="881" frameX="0" frameY="0" frameWidth="638" frameHeight="881"/>
+	<SubTexture name="Squizzle Note Down0000" x="6838" y="4670" width="675" height="766" frameX="0" frameY="-18" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0001" x="6838" y="4670" width="675" height="766" frameX="0" frameY="-18" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0002" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0003" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0004" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0005" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0006" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0007" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0008" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0009" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0010" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0011" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0012" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down0013" x="4552" y="4668" width="667" height="784" frameX="0" frameY="0" frameWidth="675" frameHeight="784"/>
+	<SubTexture name="Squizzle Note Down Pixel0000" x="2353" y="3" width="785" height="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0001" x="2353" y="3" width="785" height="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0002" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0003" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0004" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0005" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0006" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0007" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0008" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0009" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0010" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0011" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0012" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Down Pixel0013" x="6006" y="3" width="758" height="1075" frameX="0" frameY="-34" frameWidth="785" frameHeight="1109"/>
+	<SubTexture name="Squizzle Note Left0000" x="2474" y="4742" width="545" height="883" frameX="0" frameY="-2" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0001" x="2474" y="4742" width="545" height="883" frameX="0" frameY="-2" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0002" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0003" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0004" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0005" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0006" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0007" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0008" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0009" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0010" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0011" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0012" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left0013" x="1125" y="4747" width="539" height="885" frameX="-7" frameY="0" frameWidth="546" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Left Pixel0000" x="819" y="3" width="784" height="1246" frameX="0" frameY="0" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0001" x="819" y="3" width="784" height="1246" frameX="0" frameY="0" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0002" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0003" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0004" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0005" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0006" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0007" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0008" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0009" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0010" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0011" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0012" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note Left Pixel0013" x="4586" y="3" width="723" height="1150" frameX="-62" frameY="-96" frameWidth="785" frameHeight="1246"/>
+	<SubTexture name="Squizzle Note OhNoNo0000" x="3802" y="4734" width="559" height="883" frameX="0" frameY="-2" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0001" x="3802" y="4734" width="559" height="883" frameX="0" frameY="-2" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0002" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0003" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0004" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0005" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0006" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0007" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0008" x="7516" y="4697" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0009" x="7516" y="4697" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0010" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0011" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0012" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0013" x="3" y="3915" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0014" x="7516" y="4697" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0015" x="7516" y="4697" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0016" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0017" x="1913" y="4077" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0018" x="564" y="4720" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note OhNoNo0019" x="564" y="4720" width="558" height="885" frameX="-2" frameY="0" frameWidth="560" frameHeight="885"/>
+	<SubTexture name="Squizzle Note Penis0000" x="6567" y="2926" width="637" height="871" frameX="0" frameY="0" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0001" x="6567" y="2926" width="637" height="871" frameX="0" frameY="0" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0002" x="6567" y="2926" width="637" height="871" frameX="0" frameY="0" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0003" x="6567" y="2926" width="637" height="871" frameX="0" frameY="0" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0004" x="3641" y="2921" width="639" height="869" frameX="0" frameY="-2" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0005" x="3641" y="2921" width="639" height="869" frameX="0" frameY="-2" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0006" x="674" y="2127" width="670" height="860" frameX="-2" frameY="-11" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0007" x="674" y="2127" width="670" height="860" frameX="-2" frameY="-11" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0008" x="4328" y="2109" width="667" height="864" frameX="-1" frameY="-7" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0009" x="4328" y="2109" width="667" height="864" frameX="-1" frameY="-7" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0010" x="3658" y="2053" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0011" x="3658" y="2053" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0012" x="6645" y="2058" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0013" x="6645" y="2058" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0014" x="5252" y="2069" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0015" x="5252" y="2069" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0016" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0017" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0018" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0019" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0020" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Penis0021" x="7315" y="2071" width="667" height="865" frameX="-1" frameY="-6" frameWidth="672" frameHeight="871"/>
+	<SubTexture name="Squizzle Note Right0000" x="5252" y="1189" width="687" height="877" frameX="-11" frameY="0" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0001" x="5252" y="1189" width="687" height="877" frameX="-11" frameY="0" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0002" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0003" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0004" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0005" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0006" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0007" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0008" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0009" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0010" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0011" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0012" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0013" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right0014" x="819" y="1252" width="683" height="872" frameX="0" frameY="-5" frameWidth="698" frameHeight="877"/>
+	<SubTexture name="Squizzle Note Right Pixel0000" x="1606" y="3" width="744" height="1271" frameX="-2" frameY="0" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0001" x="1606" y="3" width="744" height="1271" frameX="-2" frameY="0" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0002" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0003" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0004" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0005" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0006" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0007" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0008" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0009" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0010" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0011" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0012" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0013" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Right Pixel0014" x="3872" y="3" width="711" height="1176" frameX="0" frameY="-95" frameWidth="746" frameHeight="1271"/>
+	<SubTexture name="Squizzle Note Scream0000" x="3658" y="1182" width="695" height="868" frameX="-11" frameY="0" frameWidth="706" frameHeight="868"/>
+	<SubTexture name="Squizzle Note Scream0001" x="7340" y="1201" width="688" height="867" frameX="-11" frameY="-1" frameWidth="706" frameHeight="868"/>
+	<SubTexture name="Squizzle Note Scream0002" x="1505" y="1277" width="680" height="867" frameX="0" frameY="-1" frameWidth="706" frameHeight="868"/>
+	<SubTexture name="Squizzle Note Scream0003" x="6645" y="1191" width="692" height="864" frameX="0" frameY="-4" frameWidth="706" frameHeight="868"/>
+	<SubTexture name="Squizzle Note Up0000" x="4586" y="1156" width="663" height="950"/>
+	<SubTexture name="Squizzle Note Up0001" x="4586" y="1156" width="663" height="950"/>
+	<SubTexture name="Squizzle Note Up0002" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0003" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0004" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0005" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0006" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0007" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0008" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0009" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0010" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0011" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0012" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up0013" x="2992" y="1170" width="663" height="937" frameX="0" frameY="-13" frameWidth="663" frameHeight="950"/>
+	<SubTexture name="Squizzle Note Up Pixel0000" x="3" y="3" width="813" height="1287" frameX="0" frameY="0" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0001" x="3" y="3" width="813" height="1287" frameX="0" frameY="0" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0002" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0003" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0004" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0005" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0006" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0007" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0008" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0009" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0010" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0011" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0012" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+	<SubTexture name="Squizzle Note Up Pixel0013" x="3141" y="3" width="728" height="1164" frameX="-87" frameY="-123" frameWidth="815" frameHeight="1287"/>
+</TextureAtlas>

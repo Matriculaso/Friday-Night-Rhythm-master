@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOYFRIEND_SHAKE.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF idle shaking0000" x="3" y="3" width="410" height="413"/>
+	<SubTexture name="BF idle shaking0001" x="416" y="3" width="410" height="413"/>
+	<SubTexture name="BF idle shaking0002" x="3" y="419" width="410" height="413"/>
+	<SubTexture name="BF idle shaking0003" x="416" y="419" width="410" height="413"/>
+</TextureAtlas>

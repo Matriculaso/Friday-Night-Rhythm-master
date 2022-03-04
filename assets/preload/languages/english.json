@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "personalBest": "PERSONAL BEST",
+  "diffies": ["EASY", "NORMAL", "HARD"],
+  "pauseDiffies": ["EASY", "NORMAL", "HARD"],
+  "jsonFile": "JSON File",
+  "controls": ["Controls", "Change your controls."],
+  "downscroll": ["Downscroll", "Places gray notes at bottom of the screen."],
+  "midscroll": ["Midscroll", "Centers gray notes."],
+  "ghostTapping": [
+    "Ghost Tapping",
+    "If you press a key and there aren't notes to press, you miss."
+  ],
+  "fpsCap": ["FPS Cap", "Change the game framerate limit."],
+  "hitsound": ["HitSound", "When you press a note, a satisfying sound plays."],
+  "showcaseMode": ["Showcase mode", "Showcase the mod without annoying texts."],
+  "ultra-optimize": [
+    "Ultra Optimize",
+    "Deletes the characters and the background for better performance."
+  ],
+  "note-splashes": [
+    "Note Splashes",
+    "Spawns a fancy splash when you hit a 'Sick'."
+  ],
+  "background-opacity": [
+    "Background Opacity",
+    "Adds a black screen behind your notes to hide the background to see them better."
+  ],
+  "language": ["Language", "Changes your game language."],
+  "flashing-menu": [
+    "Flashing Lights",
+    "Toggle the flashing lights for photosensitive people."
+  ],
+  "antialiasing": [
+    "Antialiasing",
+    "Without antialiasing, theres better performance but the game looks worse."
+  ],
+  "camera-zoom": ["Camera Beats", "Toggle the camera zooms on a song beat."],
+  "fps-counter": ["FPS Counter", "Toggle the visiblity of the FPS counter."],
+  "auto-pause": [
+    "Auto Pause",
+    "Auto pauses the game when it doesn't have focus."
+  ],
+  "allowReset": ["Allow Reset", "Allow die on game with the R key."],
+
+  "score": "Score",
+  "misses": "Misses",
+  "accuracy": "Accuracy",
+
+  "pauseOG": [
+    "Resume",
+    "Restart Song",
+    "Skip Song",
+    "Change Difficulty",
+    "Toggle Practice Mode",
+    "Options",
+    "Exit to menu"
+  ],
+
+  "back": "BACK",
+  "practiceMode": "PRACTICE MODE",
+
+  "freeplayPlay": "Press SPACE to preview the song.",
+  "freeplayPlayMobile": "Press PLAY BUTTON to preview the song."
+}

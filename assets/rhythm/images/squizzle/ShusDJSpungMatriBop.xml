@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShusDJSpungMatriBop.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ShusDJSpungMatriBop0000" x="3" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0001" x="3" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0002" x="1541" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0003" x="1541" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0004" x="3079" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0005" x="3079" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0006" x="4617" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0007" x="4617" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0008" x="6155" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0009" x="6155" y="3" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0010" x="3" y="755" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0011" x="3" y="755" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0012" x="1541" y="755" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop0013" x="1541" y="755" width="1535" height="749"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0000" x="3079" y="755" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0001" x="4619" y="755" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0002" x="6159" y="755" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0003" x="3" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0004" x="1543" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0005" x="3083" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0006" x="4623" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0007" x="6163" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0008" x="6163" y="1511" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0009" x="3" y="2267" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0010" x="3" y="2267" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0011" x="1543" y="2267" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0012" x="1543" y="2267" width="1537" height="753"/>
+	<SubTexture name="ShusDJSpungMatriBop disgusted0013" x="3083" y="2267" width="1537" height="753"/>
+</TextureAtlas>

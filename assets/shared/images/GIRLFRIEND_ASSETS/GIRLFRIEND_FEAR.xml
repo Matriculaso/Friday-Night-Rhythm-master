@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GIRLFRIEND_FEAR.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF FEAR 0000" x="3" y="3" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0001" x="705" y="3" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0002" x="3" y="646" width="699" height="640"/>
+	<SubTexture name="GF FEAR 0003" x="705" y="646" width="699" height="640"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="go_anim.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GO!!0000" x="3" y="3" width="310" height="238" frameX="-124" frameY="-95" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0001" x="316" y="3" width="559" height="429"/>
+	<SubTexture name="GO!!0002" x="316" y="3" width="559" height="429"/>
+	<SubTexture name="GO!!0003" x="3" y="435" width="487" height="376" frameX="-36" frameY="-26" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0004" x="3" y="435" width="487" height="376" frameX="-36" frameY="-26" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0005" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0006" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0007" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0008" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0009" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0010" x="493" y="435" width="497" height="382" frameX="-31" frameY="-23" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0011" x="3" y="820" width="305" height="234" frameX="-127" frameY="-97" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0012" x="311" y="820" width="128" height="98" frameX="-215" frameY="-165" frameWidth="559" frameHeight="429"/>
+	<SubTexture name="GO!!0013" x="442" y="820" width="63" height="48" frameX="-248" frameY="-190" frameWidth="559" frameHeight="429"/>
+</TextureAtlas>

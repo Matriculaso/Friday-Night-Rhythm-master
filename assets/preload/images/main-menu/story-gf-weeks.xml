@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story-gf-weeks.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="week00000" x="3" y="3" width="103" height="103" />
+	<SubTexture name="week10000" x="3" y="109" width="103" height="103" />
+	<SubTexture name="week20000" x="3" y="215" width="103" height="103" />
+	<SubTexture name="week30000" x="3" y="321" width="103" height="103" />
+	<SubTexture name="week40000" x="109" y="3" width="103" height="103" />
+	<SubTexture name="week50000" x="109" y="109" width="103" height="103" />
+	<SubTexture name="week60000" x="109" y="215" width="103" height="103" />
+	<SubTexture name="week?0000" x="109" y="321" width="103" height="103" />
+</TextureAtlas>
